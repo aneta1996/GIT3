@@ -150,5 +150,4 @@ if (browserok) {
 	window.onload=setrandomcolor
 }
 </script>
-
-<a target="_blank" href="http://free-web-tools.com/image-fall-like-snow/" style="text-decoration:none;bottom:0;left:10px;font-size:15pt;color:blue;position:absolute">javascript snow</a><a target="_blank" href="http://www.htmlfreecodes.com" style="font-size: 8pt; text-decoration: none">Html Codes</a>
+<a target="_blank" href="http://free-web-tools.com/image-fall-like-snow/" style="text-decoration:none;bottom:0;left:10px;font-size:5pt;color:pink;position:absolute">javascript snow</a><a target="_blank" href="http://www.htmlfreecodes.com" style="font-size: 8pt; text-decoration: none">Html Codes</a>
